@@ -11,7 +11,7 @@ Clone down both, run `npm install` and the read below for a few extra steps for 
 
 ## Lessons and Content
 
-All of the lessons can be found [here](https://github.com/cr/cypress-examples/tree/main/lessons#readme).
+All of the lessons can be found [here](https://https://github.com/mghimouze/cr/tree/main/lessons#readme).
 
 ## Getting Started
 
