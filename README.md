@@ -5,7 +5,7 @@
 There are two repositories for this project:
 
 - This repostory.
-- A [super simple starter](https://github.com/cr/cypress-starter).
+- A [super simple starter](https://github.com/mghimouze/cr/cypress-starter).
 
 Clone down both, run `npm install` and the read below for a few extra steps for setting up this repository.
 
