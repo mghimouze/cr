@@ -1,6 +1,6 @@
 1. [Set Up](https://github.com/mghimouze/cr)
 1. [Anatomy of a Test](https://github.com/mghimouze/cr/blob/main/lessons/Anatomy%20of%20a%20Test.md)
-1. [Writing Tests](Writing%20Tests.md)
+1. [Writing Tests](https://github.com/mghimouze/cr/blob/main/lessons/Writing%20Tests.md)
 1. [Exercise, Basic Practice](Exercise,%20Basic%20Practice.md)
 1. [Solution, Basic Practice](Solution,%20Basic%20Practice.md)
 1. [Other Keystrokes](Other%20Keystrokes.md)
